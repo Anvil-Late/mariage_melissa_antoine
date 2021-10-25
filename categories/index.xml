@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mariage Melissa &amp; Antoine</title>
-    <link>https://Anvil-Late.github.io/Portfolio/categories/</link>
+    <link>https://github.com/Anvil-Late/mariage_melissa_antoine/categories/</link>
     <description>Recent content in Categories on Mariage Melissa &amp; Antoine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://Anvil-Late.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Anvil-Late/mariage_melissa_antoine/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

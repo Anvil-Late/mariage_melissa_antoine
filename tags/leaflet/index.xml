@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaflet on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/leaflet/</link>
+    <description>Recent content in Leaflet on Antoine VILLATTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/leaflet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1 - Interactive maps</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-1/</guid>
+      <description>Here, I built two interactive maps to familiarize myself with the leaflet and plotly packages to make data products and presentations :
+Link to an interactive GDP world map made with plotly
+Link to an interactive map of France and its top 10 cities made with leaflet</description>
+    </item>
+    
+  </channel>
+</rss>

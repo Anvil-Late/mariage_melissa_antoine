@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mariage Melissa &amp; Antoine</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Mariage Melissa &amp; Antoine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covoiturage</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/covoiturage/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/covoiturage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hôtels</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/h%C3%B4tels/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/h%C3%B4tels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partage</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/partage/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/partage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

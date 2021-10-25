@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partage on Mariage Melissa &amp; Antoine</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/partage/</link>
+    <description>Recent content in Partage on Mariage Melissa &amp; Antoine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/partage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covoiturage</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-1/</guid>
+      <description>Vous avez une place de libre dans votre voiture ?
+Tu es à la recherche d&amp;rsquo;un groupe qui a une place dans une voiture ?
+Dans les deux cas c&amp;rsquo;est sur ce Google Sheets que ça se passe ! (Clic clic)</description>
+    </item>
+    
+    <item>
+      <title>Hôtels en groupe</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
+      <description>Que tu sois à la recherche d&amp;rsquo;un groupe ou que tu sois un groupe en cherchant un autre pour faire un réservation groupée, c&amp;rsquo;est sur ce Google Sheets que tu peux organiser tout ça ! (Clic clic)</description>
+    </item>
+    
+  </channel>
+</rss>

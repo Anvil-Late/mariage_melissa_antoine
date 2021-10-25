@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny Apps on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/shiny-apps/</link>
+    <description>Recent content in Shiny Apps on Antoine VILLATTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/shiny-apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2 - BMI Calculator App</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
+      <description>This is a quick project I made to familiarize myself with building shiny apps, especially :
+ Using background plots to display on the UI Having reactive variables displayed on the plot Handling null inputs and error outputs on the UI display  I used ggplot to create the background graphs.
+Link to the App
+Link to the GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

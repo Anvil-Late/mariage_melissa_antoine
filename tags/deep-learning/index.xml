@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep learning on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/deep-learning/</link>
+    <description>Recent content in Deep learning on Antoine VILLATTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 8 : Deep Learning Classification on Social Media</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-8/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-8/</guid>
+      <description>This project is my second take on the &amp;ldquo;Real or Not ? NLP with Disaster Tweets&amp;rdquo; Kaggle competition, in which we are provided a list of tweets that can either be about a disaster or not. You can find my first attempt here
+Last time, I was rather new to data science. I focused heavily on feature engineering and bags of words to put into machine learning models and managed to obtain a decent score of 78% with ensemble models.</description>
+    </item>
+    
+    <item>
+      <title>Project 7 : NLP and Image processing - Automatic classification of website products (Deep Learning and Clustering)</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-7/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-7/</guid>
+      <description>This project&amp;rsquo;s goal is to build a model that can classify consumer goods based on pictures and descriptions.
+I approached this project with basic and advanced methods for both NLP and image recognition.
+For basic methods, I used feature extractions and clustering, whereas for advanced methods I used supervised neural networks.
+Moreover, the dataset we were provided with was small, which made it necessary to either use dimension reduction for clustering algorithms or transfer learning for neural networks.</description>
+    </item>
+    
+  </channel>
+</rss>
